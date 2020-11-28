@@ -1,7 +1,7 @@
 # MarsRoverChallenge
 Project building step
 
-step1: Pull the project from git repository.
+step1: Pull project from the git repository.
 
 step2: Go to the source folder and build it using below command.
 
