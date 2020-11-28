@@ -1,7 +1,0 @@
-com/MarsRover/domain/CommandRequest.class
-com/MarsRover/domain/RoverRobot.class
-com/MarsRover/domain/RoverResponse.class
-com/MarsRover/service/MarsRoverServiceImpl.class
-com/MarsRover/MarsOverChallengeApplication.class
-com/MarsRover/controller/MarsRoverController.class
-com/MarsRover/service/MarsRoverService.class
